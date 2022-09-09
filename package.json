@@ -1,0 +1,14 @@
+{
+  "name": "arc-direct-upload-demo",
+  "version": "1.0.0",
+  "description": "Demonstrates a potential issue with doing a direct binary upload POST with Architect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Buckingham <andy@andybee.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^10.6.0"
+  }
+}
